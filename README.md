@@ -34,7 +34,7 @@ El sistema reemplaza el envío de información por correo electrónico, solucion
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/portal-recibos-sueldo.git
+git clone https://github.com/Ender-28/portal-recibos-sueldo.git
 cd portal-recibos-sueldo
 
 # 2. Instalar dependencias
